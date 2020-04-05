@@ -10,7 +10,7 @@ We develop a new tensor completion method called ExpCP for non-Gaussian data fro
 
 1. Thanks to Hancheng Ge's work. The pyten they wrote provided great convenience for the realization of our work, because they realized the basic operation of tensors. https://github.com/hanchengge/Helios-PyTen
 
-2. Our contributions: pyten -> method -> ***BernoulliAirCP.py & PoissonAirCP.py & Neg_binAirCP.py***.It will be further optimized in the future and packaged in a file.
+2. Our contributions: pyten -> method -> ***BernoulliAirCP.py & PoissonAirCP.py & Neg_binAirCP.py***.It will be further optimized in the future and packaged in one file.
 
 
 
